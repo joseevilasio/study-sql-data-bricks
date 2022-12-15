@@ -1,4 +1,5 @@
 -- Databricks notebook source
+-- DBTITLE 1,Case
 SELECT *,
       -- Nova coluna na query com a informação da descNacionalidade, utilizando CASE
       CASE 
