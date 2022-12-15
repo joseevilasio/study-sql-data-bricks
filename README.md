@@ -1,4 +1,3 @@
-# study-sql-data-bricks
-Estudos de SQL com teocalvo
+# Estudos de SQL no databricks
 
-Hello World! Test commit and push. 
+Aulas ao vivo com https://github.com/TeoMeWhy para o curso da Linuxtips
